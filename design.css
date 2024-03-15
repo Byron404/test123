@@ -40,16 +40,16 @@ body {
 
 
 .violet {
-    color: rgba(183, 132, 43, 0.911); /* Updated text color */
+    color: rgba(183, 132, 43, 0.911); 
 }
 
 .custom-footer {
-    background-color: rgba(183, 132, 43, 1); /* Mengubah opacity menjadi 1 untuk warna pekat */
+    background-color: rgba(183, 132, 43, 1); 
     padding: 1rem;
-    color: white; /* Set text color to white */
-    text-align: center; /* Center-align text */
-    width: 100%; /* Make footer full width */
-    position: fixed; /* Fix footer to bottom of the screen */
-    bottom: 0; /* Position footer at the bottom */
-    z-index: 999; /* Set z-index to make footer the top layer */
+    color: white; 
+    text-align: center; 
+    width: 100%; 
+    position: fixed; 
+    bottom: 0; 
+    z-index: 999; 
 }
